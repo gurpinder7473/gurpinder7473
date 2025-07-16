@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurpinder7473
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c language
+- 🌱 I’m currently learning ...AI/ML
 - 💞️ I’m looking to collaborate on ...microsoft
 - 📫 How to reach me ...anywhere
 
